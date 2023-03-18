@@ -1,6 +1,5 @@
 # Kodluyoruz ilk repo 
-# ![](https://picsum.photos/id/1/200/300)
-
+![testresim](https://user-images.githubusercontent.com/128252928/226137012-9689d801-def8-4fc6-9a3d-59f835ee5295.png)
 
 
 
